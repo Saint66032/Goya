@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Index - Goya</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <!-- Favicons -->
+  <link href="assets/img/icon.jpg" rel="icon">
+  <link href="assets/img/icon.jpg" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+
+  <!-- Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Gp
+  * Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
+  * Updated: Aug 15 2024 with Bootstrap v5.3.3
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body class="index-page">
+
+  <header id="header" class="header d-flex align-items-center fixed-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
+
+      <a href="index.html" class="logo d-flex align-items-center me-auto me-lg-0">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <!-- <img src="assets/img/logo.png" alt=""> -->
+        <h1 class="sitename">GOYA</h1>
+        <span>.</span>
+      </a>
+
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="#hero" class="active">Home<br></a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#services">Qualification</a></li>
+          <li><a href="#portfolio">Job Interest</a></li>
+          <!--<li><a href="#team">Team</a></li>
+          <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+              <li><a href="#">Dropdown 1</a></li>
+              <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+                <ul>
+                  <li><a href="#">Deep Dropdown 1</a></li>
+                  <li><a href="#">Deep Dropdown 2</a></li>
+                  <li><a href="#">Deep Dropdown 3</a></li>
+                  <li><a href="#">Deep Dropdown 4</a></li>
+                  <li><a href="#">Deep Dropdown 5</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Dropdown 2</a></li>
+              <li><a href="#">Dropdown 3</a></li>
+              <li><a href="#">Dropdown 4</a></li>
+            </ul>
+          </li>-->
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+
+      <a class="btn-getstarted" href="index.html#about">Get Started</a>
+
+    </div>
+  </header>
+
+  <main class="main">
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero section dark-background">
+
+      <img src="assets/img/main.jpg" alt="" data-aos="fade-in">
+
+      <div class="container">
+
+        <div class="row justify-content-center text-center" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-xl-6 col-lg-8">
+            <h2>Start Trading With Confidence<span>.</span></h2>
+            <p>Join our platform and ehnence your trading skills</p>
+          </div>
+        </div>
+
+        <!--<div class="row gy-4 mt-5 justify-content-center" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-xl-2 col-md-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="icon-box">
+              <i class="bi bi-list"></i>
+              <h3><a href="">Learn</a></h3>
+            </div>
+          </div>
+          <div class="col-xl-2 col-md-4" data-aos="fade-up" data-aos-delay="400">
+            <div class="icon-box">
+              <i class="bi bi-people"></i>
+              <h3><a href="">Team up</a></h3>
+            </div>
+          </div>
+          <div class="col-xl-2 col-md-4" data-aos="fade-up" data-aos-delay="600">
+            <div class="icon-box">
+              <i class="bi bi-calendar4-week"></i>
+              <h3><a href="">Be Up to Date</a></h3>
+            </div>
+          </div>-->
+          <!--<div class="col-xl-2 col-md-4" data-aos="fade-up" data-aos-delay="700">
+            <div class="icon-box">
+              <i class="bi bi-gem"></i>
+              <h3><a href="">Nemos Enimade</a></h3>
+            </div>
+          </div>
+        </div>-->
+
+      </div>
+
+    </section><!-- /Hero Section -->
+
+    <!-- About Section -->
+    <section id="about" class="about section">
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+            <div class="col-lg-6 order-1 order-lg-2">
+                <img src="assets/img/about.jpg" class="img-fluid" alt="">
+                <img src="assets/img/about2.jpg" class="img-fluid" alt="">
+            </div>
+          <div class="col-lg-6 order-2 order-lg-1 content">
+            <h3>Our Purpose</h3>
+            <p class="fst-italic">
+                The aim of the GOYA is to serve as a comprehensive resource for individuals seeking to navigate the complexities of the foreign exchange market.
+                By offering a wealth of educational materials, including tutorials, market analysis, and trading strategies,
+                GOYA strives to empower both beginners and experienced traders with the knowledge and tools necessary to make informed trading decisions.
+                This platform is designed to clarifying forex trading, providing clear insights into market trends, fundamentals,
+                risk management, and effective trading techniques.
+                Additionally, GOYA aims to foster a supportive community where traders can connect, share experiences,
+                and learn from one another, ultimately enhancing their trading skills and confidence. Through its commitment to education and community engagement,
+                GOYA seeks to help users achieve their financial goals and succeed in the dynamic world of forex trading.
+            </p>
+              <h3>Personal Details</h3>
+              <p>
+                My Name is Nkosinathi Mokhajoa, studying my second year in Dip(Information Technology) at Nelson Mandela University. 
+                I have participated in a couple of acrtivies and aquires
+              </p>
+              <!--<br />-->
+              <p>Our focus is on:</p>
+            <ul>
+              <li><i class="bi bi-check2-all"></i> <span>Fundamentals</span></li>
+              <li><i class="bi bi-check2-all"></i> <span>Risk Management</span></li>
+              <li><i class="bi bi-check2-all"></i> <span>Technicals</span></li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+
+    <!-- Features Section -->
+    <section id="features" class="features section">
+
+        <div class="container">
+            <div>
+                <h2><strong>Extra Murals</strong></h2>
+            </div>
+            <div class="row gy-4">
+                <div class="features-image col-lg-6" data-aos="fade-up" data-aos-delay="100"><img src="assets/img/img.jpg" alt=""></div>
+                <div class="col-lg-6">
+
+                    <div class="features-item d-flex ps-0 ps-lg-3 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="200">
+                        <i class="bi bi-currency-exchange flex-shrink-0"></i>
+                        <div>
+                            <h4>Forex Trader</h4>
+                            <!--<p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>-->
+                        </div>
+                    </div><!-- End Features Item-->
+
+                    <div class="features-item d-flex mt-5 ps-0 ps-lg-3" data-aos="fade-up" data-aos-delay="300">
+                        <i class="bi bi-pass flex-shrink-0"></i>
+                        <div>
+                            <h4>Software Developer</h4>
+                            <!--<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>-->
+                        </div>
+                    </div><!-- End Features Item-->
+
+                    <div class="features-item d-flex mt-5 ps-0 ps-lg-3" data-aos="fade-up" data-aos-delay="400">
+                        <i class="bi bi-trophy flex-shrink-0"></i>
+                        <div>
+                            <h4>Cricket Player</h4>
+                            <!--<p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>-->
+                        </div>
+                    </div><!-- End Features Item-->
+
+                    <div class="features-item d-flex mt-5 ps-0 ps-lg-3" data-aos="fade-up" data-aos-delay="500">
+                        <i class="bi bi-joystick flex-shrink-0"></i>
+                        <div>
+                            <h4>Gamer</h4>
+                            <!--<p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>-->
+                        </div>
+                    </div><!-- End Features Item-->
+
+                </div>
+            </div>
+
+        </div>
+
+    </section><!-- /Features Section -->
+
+    <!-- Services Section -->
+    <section id="services" class="services section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Qulifications</h2>
+        <p>Education</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="bi bi-activity"></i>
+              </div>
+                <h3>Apex Payman Student</h3>
+              <p>Currnently a studying at Apex Payman academy</p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="bi bi-lock"></i>
+              </div>
+                <h3>Cyber Cecurity</h3>
+              <p>I have obtained my certificate in Cyber Security in my first year in Varsiy.</p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="bi bi-code"></i>
+              </div>
+                <h3>Internet Programming</h3>
+                <p>
+                    This module will prepare me to design and develop data driven web-based applications.
+                </p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="bi bi-info"></i>
+              </div>
+                <h3>Information System</h3>
+                <p>This module focuses on data modelling, process modelling, and SQL, equipping you with skills to navigate the system design life cycle.</p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="bi bi-sort-alpha-down"></i>
+              </div>
+                <h3>Technical Programming</h3>
+                <p>
+                    The aim of the Technical Programming I subject is to develop skills in applying basic algorithmic
+                    problem solving techniques in a programming environment and to introduce the student to report and
+                    program design. Specific emphasis is placed on reflective practices and the improvement of code
+                    efficiency through continuous analyses and testing. Strict adherence to various best practices is
+                    required from students in this offering.
+                </p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="bi bi-chat-square-text"></i>
+              </div>
+                <h3>Development Software</h3>
+                <p>
+                    This module will prepare me to solve programming problems through the application of intermediate to
+                    advanced programming constructs.
+                </p>
+              
+            </div>
+          </div><!-- End Service Item -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Services Section -->
+
+    <!-- Call To Action Section -->
+    <section id="call-to-action" class="call-to-action section dark-background">
+
+      <img src="assets/img/cta-bg.jpg" alt="">
+
+      <div class="container">
+        <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-xl-10">
+            <div class="text-center">
+              <h3>Goya for the better</h3>
+              <!--<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>-->
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </section><!-- /Call To Action Section -->
+
+    <!-- Portfolio Section -->
+    <section id="portfolio" class="portfolio section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Job Interest</h2>
+        <p>Jobs</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+
+          <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
+            <li data-filter="*" class="filter-active">All</li>
+            <li data-filter=".filter-app">Forex Trader</li>
+            <li data-filter=".filter-product">Forex Broker</li>
+            <li data-filter=".filter-branding">Forex Educator</li>
+          </ul><!-- End Portfolio Filters -->
+
+          <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+              <img src="assets/img/masonry-portfolio/picture1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                  <h4>Forex Trader</h4>
+                  <p>Engages in buying and selling currencies, either for clients or proprietary trading desks, requiring strong market analysis skills.</p>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <img src="assets/img/masonry-portfolio/broker2.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                  <h4>Forex Broker</h4>
+                  <p>Facilitates currency trades, providing trading platforms and client services, often within financial institutions.</p>
+                <a href="assets/img/masonry-portfolio/masonry-portfolio-2.jpg" title="Product 1" data-gallery="portfolio-gallery-product" class="glightbox preview-link"></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+              <img src="assets/img/masonry-portfolio/educator1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                  <h4>Forex Educator</h4>
+                  <p>Teaches forex trading techniques, risk management, and market analysis to aspiring traders.</p>
+                <a href="assets/img/masonry-portfolio/masonry-portfolio-3.jpg" title="Branding 1" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"></a>              
+              </div>
+            </div><!-- End Portfolio Item -->
+
+          </div><!-- End Portfolio Container -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Portfolio Section -->
+
+    <!-- Stats Section -->
+    <section id="stats" class="stats section">
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4 align-items-center justify-content-between">
+
+          <div class="col-lg-5">
+            <img src="assets/img/got.jpg" alt="" class="img-fluid">
+          </div>
+
+          <div class="col-lg-6">
+
+            <h3 class="fw-bold fs-2 mb-3">GOYA Work OverralL And Feedback</h3>
+            <p>
+              We have worked with 17 peolpe already around Eastern Cape, Port Elizabeth. We turrn the numbers up from the students/clients wwe got in Port Elizabeth and spread out to other provinces whic led us to 67 clients in total of 1 project that wehad in a past few years
+            </p>
+
+            <div class="row gy-4">
+
+              <div class="col-lg-6">
+                <div class="stats-item d-flex">
+                  <i class="bi bi-emoji-smile flex-shrink-0"></i>
+                  <div>
+                    <span data-purecounter-start="0" data-purecounter-end="67" data-purecounter-duration="1" class="purecounter"></span>
+                    <p><strong>Happy Clients</strong> <!--<span>consequuntur quae</span>--></p>
+                  </div>
+                </div>
+              </div><!-- End Stats Item -->
+
+              <div class="col-lg-6">
+                <div class="stats-item d-flex">
+                  <i class="bi bi-journal-richtext flex-shrink-0"></i>
+                  <div>
+                    <span data-purecounter-start="0" data-purecounter-end="1" data-purecounter-duration="1" class="purecounter"></span>
+                    <p><strong>Projects</strong> <!--<span>adipisci atque cum quia aut</span>--></p>
+                  </div>
+                </div>
+              </div><!-- End Stats Item -->
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- /Stats Section -->
+
+              
+    <!-- Contact Section -->
+    <section id="contact" class="contact section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Contact</h2>
+        <p>Contact Us</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="mb-4" data-aos="fade-up" data-aos-delay="200">
+          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3307.6707551501704!2d25.668911575081715!3d-34.000989725916604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e6532ceb52c38f9%3A0xc4589f8b1c092372!2sNelson%20Mandela%20University!5e0!3m2!1sen!2sza!4v1745141081971!5m2!1sen!2sza" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"" frameborder="0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div> End Google Maps 
+
+        <div class="row gy-4">
+
+          <div class="col-lg-4">
+            <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+              <i class="bi bi-geo-alt flex-shrink-0"></i>
+              <div>
+                <h3>Address</h3>
+                <p>University Way, Summerstrand, Gqeberha, 6019</p>
+              </div>
+            </div><!-- End Info Item -->
+
+            <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+              <i class="bi bi-telephone flex-shrink-0"></i>
+              <div>
+                <h3>Call Us</h3>
+                <p>+27 69 411 0354</p>
+              </div>
+            </div><!-- End Info Item -->
+
+            <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="500">
+              <i class="bi bi-envelope flex-shrink-0"></i>
+              <div>
+                <h3>Email Us</h3>
+                <p>s229037399@mandela.ac.za</p>
+              </div>
+            </div><!-- End Info Item -->
+
+          </div>
+
+          <div class="col-lg-8">
+            <form action="https://api.web3forms.com/submit" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
+                <div class="row gy-4">
+                    <div class="col-md-6">
+                        <input type="hidden" name="access_key" value="d5b8d936-7fc5-462a-8777-34829a97ae5c">
+                        <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
+                    </div>
+
+                    <div class="col-md-6 ">
+                        <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
+                    </div>
+
+                    <div class="col-md-12">
+                        <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
+                    </div>
+
+                    <div class="col-md-12">
+                        <textarea class="form-control" name="message" rows="6" placeholder="Message" required=""></textarea>
+                    </div>
+
+                    <div class="col-md-12 text-center">
+                        <div class="loading">Loading</div>
+                        <div class="error-message"></div>
+                        <div class="sent-message">Your message has been sent. Thank you!</div>
+
+                        <button type="submit">Send Message</button>
+                    </div>
+
+                </div>
+            </form>
+          </div><!-- End Contact Form -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Contact Section -->
+
+  </main>
+
+  <footer id="footer" class="footer dark-background">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row gy-4">
+          <div class="col-lg-4 col-md-6 footer-about">
+            <a href="index.html" class="logo d-flex align-items-center">
+              <span class="sitename">GOYA</span>
+            </a>
+            <div class="footer-contact pt-3">
+                <p>University Way</p>
+                <p>Summerstrand, Gqeberha, 6019</p>
+              <p class="mt-3"><strong>Phone:</strong> <span>069 411 0354</span></p>
+              <p><strong>Email:</strong> <span>s229037399@mandela.ac.za</span></p>
+            </div>
+            <div class="social-links d-flex mt-4">
+              <a href="https://t.me/MarketMastersZA"><i class="bi bi-telegram"></i></a>
+              <a href="https://www.instagram.com/s.aint997/?hl=en"><i class="bi bi-instagram"></i></a>
+              <a href="https://www.linkedin.com/in/nkosinathi-mokhajoa-364176349"><i class="bi bi-linkedin"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-3 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bi bi-chevron-right"></i> <a href="#"> Home</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#"> About</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#"> Qualifications</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#"> Job Interests</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#"> Contact</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-2 col-md-3 footer-links">
+              <h4>Motivation</h4>
+              <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-person-video"></i><span>Watch Video</span></a>          </div>
+
+          <div class="col-lg-4 col-md-12 footer-newsletter">
+            <h4>Our Newsletter</h4>
+            <p>Subscribe to our newsletter and receive the latest news about our products and services!</p>
+            <form action="forms/newsletter.php" method="post" class="php-email-form">
+              <div class="newsletter-form"><input type="email" name="email"><input type="submit" value="Subscribe"></div>
+              <div class="loading">Loading</div>
+              <div class="error-message"></div>
+              <div class="sent-message">Your subscription request has been sent. Thank you!</div>
+            </form>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="copyright">
+      <div class="container text-center">
+        <p>© <span>Copyright</span> <strong class="px-1 sitename">GOYA</strong> <span>Get your pips right</span></p>
+        <div class="credits">
+          <!-- All the links in the footer should remain intact. -->
+          <!-- You can delete the links only if you've purchased the pro version. -->
+          <!-- Licensing information: https://bootstrapmade.com/license/ -->
+          <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        </div>
+      </div>
+    </div>
+
+  </footer>
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+
+  <!-- Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
